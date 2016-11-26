@@ -14,10 +14,12 @@ layout: default
       <h1 itemprop="name headline">{{ page.title }}</h1>
       {% if page.categories.size > 0 %}
         <span>
-          Posted in {{ page.categories | join: ', ' }}
+          {{ page.categories | join: ', ' }}
         </span>
       {% endif %}
-      <span></span>
+      <span>
+        Posted by {{ page.author | join: ', ' }}
+      </span>
     </div>
   </header>
 
@@ -28,16 +30,16 @@ layout: default
   <section class="profile">
     <div class="profile__card">
       <div class="profile__img">
-        <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
+        <figure class="absolute-profile-bg" style="background-image: url('{{ page.profile_img }}');"></figure>
       </div>
       <div class="profile__container">
-        <p>{{ site.profile }}</p>
-        {% if site.email or site.social %}
+        <p>{{ page.aboutAuthor }}</p>
+        {% if page.email or page.social %}
           <ul class="profile__social">
-            {% if site.email %}
-              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+            {% if page.email %}
+              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ page.email }}"></a></li>
             {% endif %}
-            {% for social in site.social %}
+            {% for social in page.social %}
               <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
             {% endfor %}
           </ul>
