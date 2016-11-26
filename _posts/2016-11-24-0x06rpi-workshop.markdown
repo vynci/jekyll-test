@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Welcome to IoT Cebu"
-date: 2016-11-26
+title: "Introduction to Raspberry Pi (Basic Programming and Electronics) (Batch1)"
+date: 2016-11-24
 categories:
-  - News
-description: "Introduction to IoT Cebu"
-author: "Niño Liwa"
-profile_img: https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/8246_10208960712594803_4974110643699235072_n.jpg?_nc_eui2=v1%3AAeGQwIFY9KtSCVYMgqOHzYfZSp2pFfqSbFoKtGhaomJnVAzLoP5WdjLaEUq66mcuADdftDH9SIu5g53ghPmw_L72hnQRChI0WQeFaE-elBzsYVt81LPpUyBhCDiZAu4jHwk&oh=35c4a914b6eaa50b9237a5cb65e6b2af&oe=58FD2E88
-aboutAuthor: "Niño Liwa is an Electronics Enthusiast that tackles both Firmware and Hardware. He works at Nanu Inc. in Singapore as his full-time job."
+- Workshops
+description: "Introduction to Raspberry Pi (Basic Programming and Electronics) (Batch1)"
+author: "Kristoffer Amora"
+profile_img: https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/10730970_10153091407169610_8432884206348581859_n.jpg?_nc_eui2=v1%3AAeE8mnORmlHrjSf7OVwgIca4zhnen9-IeiJ-2UxNG2EVGvl92bIAXsd_YVTzGPjerhCjn49eAD1SVqiqJN0CCFaIsNBwRudOohWzChiF2cs2OI32FokWA1USz2lbRZH7Tmg&oh=3f8597657323c25fd58d555c0d3f229a&oe=58B91378
+aboutAuthor: "Kristoffer Amora is an Electronics Enthusiast that tackles both Firmware and Hardware. He works at Fortify Technologies as his full-time job."
 social:
-  github: http://github.com/vynci
+github: http://github.com/coolnumber9
 
-image: https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/14463150_1822455267989412_644747042526783602_n.jpg?_nc_eui2=v1%3AAeGk3cp2OrUrICKRyofPYIXeT2NYxOhzzKDGHv-Uq2qbDKtlkgml6uypXjdByGk5uVKDlW_AXkOhapk92KkFzSX-WkY1Mn_7S_VH8aFU3auCd0FEhYG5jrTXwoENQHNwDOE&oh=095dfe214f2478490d14316a452e275a&oe=58B38BC6
-image-sm: https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/14463150_1822455267989412_644747042526783602_n.jpg?_nc_eui2=v1%3AAeGk3cp2OrUrICKRyofPYIXeT2NYxOhzzKDGHv-Uq2qbDKtlkgml6uypXjdByGk5uVKDlW_AXkOhapk92KkFzSX-WkY1Mn_7S_VH8aFU3auCd0FEhYG5jrTXwoENQHNwDOE&oh=095dfe214f2478490d14316a452e275a&oe=58B38BC6
+image: https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/14470481_10154727423604610_3761049717664282356_n.jpg?_nc_eui2=v1%3AAeHxr8lmZ7qf9mcUKjqL_qXTadCZme5kRYV9wq182hEgrpTuiKBxxdEkTrtNdV7cL3sj8alfQVWaT7m91rXchTtRujsT8ICswrSiwn8LGyTIkD4_qfhSVD4RzvDLFu5fKeA&oh=5a5f2f2d0d6e3f6c46e3c76257f34bd2&oe=58BA0A8C
+image-sm: https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.0-9/14470481_10154727423604610_3761049717664282356_n.jpg?_nc_eui2=v1%3AAeHxr8lmZ7qf9mcUKjqL_qXTadCZme5kRYV9wq182hEgrpTuiKBxxdEkTrtNdV7cL3sj8alfQVWaT7m91rXchTtRujsT8ICswrSiwn8LGyTIkD4_qfhSVD4RzvDLFu5fKeA&oh=5a5f2f2d0d6e3f6c46e3c76257f34bd2&oe=58BA0A8C
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
 

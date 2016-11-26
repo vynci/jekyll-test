@@ -17,7 +17,7 @@ name:
 profile_img:
 profile:
 social:
-  github:
+  facebook: http://www.facebook.com/groups/1538256849524271/
 
 # Build settings
 include: ["_categories"]
